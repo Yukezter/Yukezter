@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
 
-### Welcome! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Yukezter.Yukezter&style=flat-square&color=0088cc)
+### Welcome to my Github profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Yukezter.Yukezter&style=flat-square&color=0088cc)
 
 I'm a passionate full stack web developer with over 4+ years of industry experience 💡. I'm also a proud coding instructor for Coding Minds Academy and The Coder School 👨🏻‍💻.
 
@@ -92,7 +92,7 @@ I'm currently working on an application that serves as a marketplace and manager
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Yukezter/joblog?label=javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/Yukezter/yt-summarizer"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
+	      <td><a href="https://github.com/Yukezter/yt-summarizer"><b>👨🏻‍💻 YouTube Summarizer</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/Yukezter/yt-summarizer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/Yukezter/yt-summarizer?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/Yukezter/yt-summarizer?style=flat-square"/></td>
