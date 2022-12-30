@@ -17,7 +17,7 @@ I'm currently working on an application that offers price comparison, consultati
 - 🚀 &nbsp; Developer roadmap: .NET, Go, React Native
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yukezter).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Yukezter/Yukezter/issues/1)! I am happy to chat.
-- 👾 &nbsp; Fun fact: Equal is not always equal in Javascript.
+- 👾 &nbsp; Fun fact: NaN is a number.
 - 📫 &nbsp; How to reach me: hinchliffe.dev@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Yukezter/Yukezter/blob/master/resume.pdf).
 
