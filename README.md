@@ -110,7 +110,7 @@ I'm currently working on an application that offers price comparison, consultati
   	<ul>
   	    <li><b>OS:</b> Windows 10</li>
 	    <li><b>Laptop: </b> Windows Surface Laptop (i7)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+  	    <li><b>Browser: </b> Google Chrome/Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
