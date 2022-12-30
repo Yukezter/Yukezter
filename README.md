@@ -9,7 +9,7 @@
 
 I'm a passionate full stack web developer with over 4+ years of industry experience 💡. I'm also a proud coding instructor for Coding Minds Academy and The Coder School 👨🏻‍💻.
 
-I'm currently working on an application that offers price comparison, consultation services, and management dashboard for enterprise software subscriptions 🕸️.
+I'm currently working on an application that offers price comparison, consultation services, and a management dashboard for enterprise software subscriptions 🕸️.
 
 ### Talking about Personal Stuffs:
 
