@@ -1,6 +1,6 @@
 name: push-resume
 
-on: push
+on:
   push:
     branches:
       - main
