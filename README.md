@@ -19,7 +19,7 @@ I'm currently working on an application that offers price comparison, consultati
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Yukezter/Yukezter/issues/1)! I am happy to chat.
 - 👾 &nbsp; Fun fact: NaN is a number.
 - 📫 &nbsp; How to reach me: hinchliffe.dev@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Yukezter/Yukezter/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [resume](https://github.com/Yukezter/Yukezter/blob/main/resume.pdf).
 
 ### My Absolute Favorites:
 
