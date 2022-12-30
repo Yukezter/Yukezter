@@ -13,7 +13,7 @@ I'm currently working on an application that serves as a marketplace and manager
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Typescript/Javascript, etc.
 - 🚀 &nbsp; Developer roadmap: .NET, Go, React Native
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yukezter).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Yukezter/Yukezter/issues/1)! I am happy to chat.
