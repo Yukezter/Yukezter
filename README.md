@@ -25,7 +25,7 @@ I'm currently working on an application that serves as a marketplace and manager
 
 - 💻 &nbsp; Exploring new technologies and building cool things.
 - 📰 &nbsp; Reading tech-related articles and books.
-- 🍕 Hackathons, meetups & tech events.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
 
