@@ -7,13 +7,13 @@
 
 ### Welcome to my Github profile! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Yukezter.Yukezter&style=flat-square&color=0088cc)
 
-I'm a passionate full stack web developer with over 4+ years of industry experience 💡. I'm also a proud coding instructor for Coding Minds Academy and The Coder School 👨🏻‍💻.
+I'm a passionate full stack web developer with over 5+ years of industry experience 💡. I'm also a proud coding instructor for Coding Minds Academy and The Coder School 👨🏻‍💻.
 
 I'm currently working on an application that offers price comparison, consultation services, and a management dashboard for enterprise software subscriptions 🕸️.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Typescript/Javascript, etc.
+- 🛠 &nbsp; My tools are Nodejs, Express, React, <br /> Graphql, Mongodb, Typescript/Javascript, etc.
 - 🚀 &nbsp; Developer roadmap: .NET, Go, React Native
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Yukezter).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Yukezter/Yukezter/issues/1)! I am happy to chat.
